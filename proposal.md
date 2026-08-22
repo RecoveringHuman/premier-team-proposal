@@ -91,3 +91,23 @@ Local athletic achievements + state qualifiers
 Included digital display advertising
 
 ### $2,700 partnership
+
+---
+
+# MAKE THE DIGITAL WORK ALL YEAR.
+
+# 60K + 60K = 120K
+
+**60,000 included impressions**
+
++
+
+**60,000 additional impressions for only $180**
+
+=
+
+# 120,000 TOTAL DIGITAL IMPRESSIONS
+
+## 10,000 impressions every month × 12 months
+
+Because the partnership qualifies Premier Team for the **$3 CPM add-on rate**, year-round digital visibility costs just **$180 more for the entire year.**
