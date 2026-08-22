@@ -111,3 +111,40 @@ Included digital display advertising
 ## 10,000 impressions every month × 12 months
 
 Because the partnership qualifies Premier Team for the **$3 CPM add-on rate**, year-round digital visibility costs just **$180 more for the entire year.**
+
+---
+
+# SPORTS FRONT
+
+### 6-column × 3-inch • Full Color
+
+![Premier Team Sports Front Ad](sports-front.png)
+
+**Team + Community**
+
+Full-color creative gives Premier Team an opportunity to put recognizable faces alongside its brand and its connection to the community.
+
+---
+
+# NEWS
+
+### 3-column × 5-inch • Black & White
+
+![Premier Team News Ad](news-bw.png)
+
+**Brand + Real Estate**
+
+Black-and-white doesn't have to be a lesser version of the color creative.  
+The message and design can be built specifically for the medium.
+
+---
+
+# DIGITAL DISPLAY
+
+### Five sizes. One coordinated campaign.
+
+![Premier Team Digital Display Suite](digital-display.png)
+
+**320×50 • 300×250 • 728×90 • 970×90 • 1170×90**
+
+One campaign adapts across available placements while maintaining a recognizable Premier Team identity.
