@@ -61,6 +61,7 @@ td {
     color: white;
   }
 ---
+
 # BE KNOWN  
 # BEFORE YOU'RE NEEDED.
 
@@ -263,3 +264,5 @@ Media Sales Consultant
 Norfolk Daily News & WJAG Radio Group
 
 **12-month commitment • $2,880 total annual investment**
+
+![NDN w:400](NDN-top-logo-mobile-2018-2.png) ![WJAG w:180](wjag-logo.png) ![KEXL w:135](kexl-logo.webp) ![KQKX w:135](kqkx-logo.png)
