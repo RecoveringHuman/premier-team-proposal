@@ -46,3 +46,26 @@ Advertising creates opportunities for Premier Team to remain visible **between t
 ### More touchpoints → More familiarity → More opportunity to be remembered
 
 **When real estate suddenly matters, Premier Team shouldn't be introducing itself for the first time.**
+
+---
+
+# DIFFERENT MEDIA. DIFFERENT STRENGTHS.
+## One recognizable Premier Team presence.
+
+### PRINT
+Local presence + established readership
+
+### DIGITAL
+Reach + repetition throughout the year
+
+### SPORTS + COMMUNITY
+Connection to local teams, achievements and community pride
+
+### SOCIAL
+Properties + expertise + ongoing engagement
+
+---
+
+## The strategy isn't to reach everyone in the same place.
+
+It's to create multiple opportunities for people to **see, recognize and remember Premier Team.**
