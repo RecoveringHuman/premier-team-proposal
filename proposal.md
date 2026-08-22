@@ -30,3 +30,19 @@ Consistent visibility builds recognition **before** that decision arrives.
 
 **The goal isn't to make someone need a Realtor today.  
 It's to make Premier Team familiar when they do.**
+
+---
+
+# CONTINUED PRESENCE IN THE MARKETPLACE
+
+## Be present even when they're not ready.
+
+Real estate has a long decision cycle.
+
+Families grow. Kids leave home. Jobs change. People retire, inherit property, downsize, relocate—or simply decide it's time for something different.
+
+Advertising creates opportunities for Premier Team to remain visible **between those moments of need.**
+
+### More touchpoints → More familiarity → More opportunity to be remembered
+
+**When real estate suddenly matters, Premier Team shouldn't be introducing itself for the first time.**
