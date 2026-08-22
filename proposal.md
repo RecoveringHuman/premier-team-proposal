@@ -148,3 +148,64 @@ The message and design can be built specifically for the medium.
 **320×50 • 300×250 • 728×90 • 970×90 • 1170×90**
 
 One campaign adapts across available placements while maintaining a recognizable Premier Team identity.
+
+---
+
+# PUT $240 IN PERSPECTIVE.
+
+## $232.50
+### ONE 3×5 B&W NEWS AD
+
+vs.
+
+## $444
+### ONE 6×3 FULL-COLOR SPORTS FRONT AD
+
+vs.
+
+# $240 / MONTH
+## THE RECOMMENDED YEAR-LONG PREMIER TEAM STRATEGY
+
+Print • Digital • Sports • Community
+
+---
+
+# ONE PREMIER TEAM PRESENCE.
+## A shared investment.
+
+The total recommended strategy is:
+
+# $240 / MONTH
+
+If the investment is shared among participating Realtors:
+
+| Participating Realtors | Monthly Cost Per Realtor |
+|---:|---:|
+| 4 | **$60.00** |
+| 6 | **$40.00** |
+| 8 | **$30.00** |
+| 10 | **$24.00** |
+| 12 | **$20.00** |
+| 14 | **$17.14** |
+
+### Premier Team determines how the investment is shared internally.
+
+---
+
+# BE PRESENT.
+# BE RECOGNIZED.
+# BE THERE WHEN THEY'RE READY.
+
+## $240 / MONTH
+
+One coordinated Premier Team presence across print, digital, sports and community throughout the year.
+
+**Same Premier Team. More touchpoints. Continued visibility.**
+
+---
+
+### Shannon Dobler
+Area Media Sales Consultant  
+Norfolk Daily News & WJAG Radio Group
+
+**12-month commitment • $2,880 total annual investment**
