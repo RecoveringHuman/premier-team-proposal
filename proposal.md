@@ -3,8 +3,62 @@ marp: true
 theme: default
 paginate: true
 size: 16:9
----
+style: |
+  section {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #ffffff;
+    color: #202a33;
+    padding: 60px 75px;
+  }
 
+  h1 {
+    color: #102f4f;
+    font-size: 46px;
+    line-height: 1.05;
+  }
+
+  h2 {
+    color: #102f4f;
+    font-size: 30px;
+  }
+
+  h3 {
+    color: #66717c;
+  }
+
+  strong {
+    color: #c5282f;
+  }
+
+  table {
+    margin: auto;
+    font-size: 22px;
+  }
+
+  th {
+    background: #102f4f;
+    color: white;
+  }
+
+  img {
+    display: block;
+    margin: 20px auto;
+    max-width: 90%;
+    max-height: 430px;
+    object-fit: contain;
+  }
+
+  section:first-of-type {
+    background: #102f4f;
+    color: white;
+  }
+
+  section:first-of-type h1,
+  section:first-of-type h2,
+  section:first-of-type h3 {
+    color: white;
+  }
+---
 # BE KNOWN  
 # BEFORE YOU'RE NEEDED.
 
