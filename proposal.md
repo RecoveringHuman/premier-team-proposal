@@ -69,3 +69,25 @@ Properties + expertise + ongoing engagement
 ## The strategy isn't to reach everyone in the same place.
 
 It's to create multiple opportunities for people to **see, recognize and remember Premier Team.**
+
+---
+
+# THE ALL-STAR PARTNERSHIP
+
+## One package. Multiple opportunities to stay visible.
+
+# 6  |  8  |  10  |  60K
+
+**NEWS ADS**  
+3-column × 5-inch B&W
+
+**SPORTS FRONT ADS**  
+6-column × 3-inch full color
+
+**COMMUNITY RECOGNITION**  
+Local athletic achievements + state qualifiers
+
+**DIGITAL IMPRESSIONS**  
+Included digital display advertising
+
+### $2,700 partnership
