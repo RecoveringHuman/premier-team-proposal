@@ -8,7 +8,7 @@ style: |
     font-family: Arial, Helvetica, sans-serif;
     background: #ffffff;
     color: #202a33;
-    padding: 60px 75px;
+    padding: 35px 65px;
   }
 
   h1 {
@@ -39,7 +39,9 @@ style: |
     background: #102f4f;
     color: white;
   }
-
+td {
+  color: #202a33;
+}
   img {
     display: block;
     margin: 20px auto;
@@ -235,13 +237,11 @@ If the investment is shared among participating Realtors:
 
 | Participating Realtors | Monthly Cost Per Realtor |
 |---:|---:|
-| 4 | **$60.00** |
+| 3 | **$80.00** |
 | 6 | **$40.00** |
-| 8 | **$30.00** |
-| 10 | **$24.00** |
+| 9 | **$26.67** |
 | 12 | **$20.00** |
-| 14 | **$17.14** |
-
+### ALL 14 REALTORS → **$17.14/month each**
 ### Premier Team determines how the investment is shared internally.
 
 ---
@@ -259,7 +259,7 @@ One coordinated Premier Team presence across print, digital, sports and communit
 ---
 
 ### Shannon Dobler
-Area Media Sales Consultant  
+Media Sales Consultant  
 Norfolk Daily News & WJAG Radio Group
 
 **12-month commitment • $2,880 total annual investment**
